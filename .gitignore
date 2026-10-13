@@ -1,0 +1,15 @@
+build/
+build-x64/
+bin/
+lib/
+
+.vs/
+.vscode/
+*.user
+*.suo
+
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile 
+compile_commands.json
